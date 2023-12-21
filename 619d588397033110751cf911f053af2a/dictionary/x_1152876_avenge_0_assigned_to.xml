@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d5fedcc397033110751cf911f053af68" extends="cmdb_ci" label="Assigned To" max_length="40" name="x_1152876_avenge_0_assigned_to" text_index="true" type="collection">
+        <element label="Caller" max_length="40" name="caller" type="string"/>
+        <element label="Priority" max_length="40" name="priority" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+    </element>
+</database>

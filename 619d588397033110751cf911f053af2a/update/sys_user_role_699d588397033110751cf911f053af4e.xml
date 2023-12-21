@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Has access to all of the avengers profiles and individual agent's profiles</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1152876_avenge_0.agents</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>agents</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 21:15:56</sys_created_on>
+        <sys_id>699d588397033110751cf911f053af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152876_avenge_0.agents</sys_name>
+        <sys_package display_value="Avenger's Crime Threat" source="x_1152876_avenge_0">619d588397033110751cf911f053af2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Avenger's Crime Threat">619d588397033110751cf911f053af2a</sys_scope>
+        <sys_update_name>sys_user_role_699d588397033110751cf911f053af4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 21:15:56</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="avengers-crime-threat Search Profile">82bf2807c4433110a52b445da5336f13</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 22:35:11</sys_created_on>
+        <sys_id>4abf28071e4331105ac9d62674600512</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.avengers-crime-threat Search Profile</sys_name>
+        <sys_package display_value="Avenger's Crime Threat" source="x_1152876_avenge_0">619d588397033110751cf911f053af2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Avenger's Crime Threat">619d588397033110751cf911f053af2a</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_4abf28071e4331105ac9d62674600512</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 22:35:11</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
